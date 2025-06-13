@@ -228,7 +228,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | LLMBox     | A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation. | [Link](https://github.com/RUCAIBox/LLMBox) |
 | Opik       | An open-source end-to-end LLM Development Platform which also includes LLM evaluation.                           | [Link](https://github.com/comet-ml/opik) |
 | PydanticAI Evals | A powerful evaluation framework designed to help you systematically evaluate the performance of LLM applications. | [Link](https://ai.pydantic.dev/evals/) |
-
+| UQLM | A Python package for generation-time, zero-resource LLM hallucination using state-of-the-art uncertainty quantification techniques. | [Link](https://github.com/cvs-health/uqlm) |
 
 
 
